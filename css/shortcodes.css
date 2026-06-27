@@ -46,7 +46,7 @@
     1.ttm-row
 ------------------------*/
 .ttm-row{ padding: 90px 0;}
-.ttm-row.padding_bottom_zero-section { padding: 90px 0 0; }
+.ttm-row.padding_bottom_zero-section { padding: 90px 0 30px; }
 .ttm-row.padding_top_zero-section { padding: 0 0 90px 0; }
 .ttm-row.padding_zero-section { padding: 0 0; }
 .ttm-row.broken-section { padding: 0 0; }
