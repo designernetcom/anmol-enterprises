@@ -3667,3 +3667,26 @@ padding-top: 15px;
 
 
 
+/* Show on hover for desktop */
+@media (min-width: 992px) {
+    .mega-dropdown:hover .mega-menu {
+        display: flex;
+    }
+}
+
+/* Mobile */
+@media (max-width: 991px) {
+    .mega-menu {
+        display: none;
+        flex-direction: column;
+    }
+
+    .mega-dropdown.open .mega-menu {
+        display: flex;
+    }
+}
+
+/* Desktop */
+.mega-menu {
+    display: none;
+}
