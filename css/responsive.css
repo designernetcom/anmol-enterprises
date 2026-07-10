@@ -117,7 +117,7 @@
 	.header_extra , .widget_info{ display: none !important; visibility: hidden; }
 
 	/* logo */
-	.site-branding { padding: 25px 0; }
+	.site-branding { padding: 10px 0; }
 
 	.ttm-header-style-01 #site-header-menu{ ackground-color: transparent; }
 
@@ -201,7 +201,7 @@
 	
 
 	/* ttm-row */
-	body .page.ttm-sidebar-true .site-main,	.ttm-row { padding: 60px 0 !important; }
+	body .page.ttm-sidebar-true .site-main,	.ttm-row { padding: 30px 0 !important; }
 	.ttm-row.padding_bottom_zero-section{ padding:60px 0 0 !important;  }
 	.ttm-row.padding_zero-section { padding: 0 0 !important; }
 	.ttm-row.padding_top_zero-section { padding: 0 0 60px !important; }
